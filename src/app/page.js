@@ -12,7 +12,7 @@ export default function Home() {
         textAlign: 'center',
       }}
     >
-      <h1>LBBA JaxBeach</h1>
+      <h1>L.B.B.A. JaxBeach</h1>
       <h2>coming soon...</h2>
     </main>
   );
