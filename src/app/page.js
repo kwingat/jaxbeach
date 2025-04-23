@@ -12,8 +12,7 @@ export default function Home() {
         textAlign: 'center',
       }}
     >
-      <h1>L.B.B.A. JaxBeach</h1>
-      <h2>coming soon...</h2>
+      <Image src="/JaxBeach.jpg" alt="Logo" width={400} height={200} />
     </main>
   );
 }
